@@ -7,9 +7,10 @@ This is third change.
 
  * This is a bullet phrase.
  
+ * This is a forth bullet.
+ 
  * This is a second bullet.
  
  * Adding a third bullet.
- 
- 
- ## I like to add a new paragraph
+
+ ## What about the fith part.
