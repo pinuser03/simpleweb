@@ -6,3 +6,5 @@ This is a second line.
 This is third change.
 
  * This is a bullet phrase.
+ 
+ * This is a second bullet.
