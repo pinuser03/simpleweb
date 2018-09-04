@@ -16,4 +16,9 @@ This is third change.
  * Just add the six as a bullet part.
  
  ## What about the fith part.
+<<<<<<< HEAD
  ## This is a try try not.
+=======
+ ## This is the new request to try
+ ## Try to fetch upstream
+>>>>>>> remotes/upstream/master
