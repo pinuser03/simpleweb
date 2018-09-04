@@ -13,6 +13,6 @@ This is third change.
  
  * Adding a third bullet.
 
- ## What about the fith part.
+ * Just add the six as a bullet part.
  
- ## This is the sixth part of the updates.
+ ## What about the fith part.
