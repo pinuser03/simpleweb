@@ -10,3 +10,6 @@ This is third change.
  * This is a second bullet.
  
  * Adding a third bullet.
+ 
+ 
+ ## I like to add a new paragraph
